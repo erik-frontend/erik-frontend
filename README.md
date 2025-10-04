@@ -1,11 +1,11 @@
  ### 👋 Hi!
 I am Erik Gorodyskyy . I'm junior Frontend-developer.  
-My stack Html, Css, Scss, Tailwind, JavaScript, React, Next.js.
+I am useing Html, Css, Scss, Tailwind, JavaScript, React, Nextjs.
  
 ---
  
-### 🛠️ Стек технологий
-<div style="display: flex;">
+### 🛠️ My steck
+<div style="display: flex; gap: 20px; flex-wrapp: wrapp;">
  <img height="25" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img height="25" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img height="25" alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -17,8 +17,8 @@ My stack Html, Css, Scss, Tailwind, JavaScript, React, Next.js.
  
 ---
  
-### 📌 Избранные проекты
-- [Название проекта A](https://github.com/sayz578/имя-репозиторияA) — краткое описание  
+### 📌 My projects
+- [next-blog](https://github.com/erik-frontend/next-blog) —   Tailwind  React  Nextjs Api
 - [Название проекта B](https://github.com/sayz578/имя-репозиторияB) — краткое описание  
 - [Название проекта C](https://github.com/sayz578/имя-репозиторияC) — краткое описание  
  
