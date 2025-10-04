@@ -1,6 +1,7 @@
-<p style="margin-bottom: 30px">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=erik-flontend&show_icons=true&theme=buefy&… alt="GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-frontend&layout=compact&theme… width=100% height=auto/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erik-frontend&show_icons=true&theme=buefy" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-frontend&layout=compact&theme=buefy" alt="Top Langs" />
+</div>
  
  ### 👋 Hi!
 I am Erik Gorodyskyy . I'm junior Frontend-developer.  
