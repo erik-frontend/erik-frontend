@@ -31,13 +31,7 @@ I am useing Html, Css, Scss, Tailwind, JavaScript, React, Nextjs.
 - [React blog](https://github.com/erik-frontend/react-blog) — React Vite
 - [React to do list](https://github.com/erik-frontend/react-todo-list) — React Vite
 ---
+
  
-### 📊 GitHub Stats
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=erik-flontend&show_icons=true&theme=buefy&… alt="GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-frontend&layout=compact&theme… /> |
-| ------------- | ------------- |
- 
----
- 
-### 📫 Контакты
-- Email: **ваш_email@example.com**  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+### 📫 Contact
+- Email: **club2008cd@gmail.com**  
