@@ -1,3 +1,7 @@
+<p style="margin-bottom: 30px">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=erik-flontend&show_icons=true&theme=buefy&… alt="GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-frontend&layout=compact&theme… width=100% height=auto/>
+</p>
+ 
  ### 👋 Hi!
 I am Erik Gorodyskyy . I'm junior Frontend-developer.  
 I am useing Html, Css, Scss, Tailwind, JavaScript, React, Nextjs.
@@ -18,14 +22,17 @@ I am useing Html, Css, Scss, Tailwind, JavaScript, React, Nextjs.
 ---
  
 ### 📌 My projects
-- [next-blog](https://github.com/erik-frontend/next-blog) —   Tailwind  React  Nextjs Api
-- [Название проекта B](https://github.com/sayz578/имя-репозиторияB) — краткое описание  
-- [Название проекта C](https://github.com/sayz578/имя-репозиторияC) — краткое описание  
- 
+- [Next blog](https://github.com/erik-frontend/next-blog) —   Tailwind  React  Nextjs Api
+- [Mix master](https://github.com/erik-frontend/mixMaster) —  React Vite Api
+- [Unsplash image](https://github.com/erik-frontend/unsplashImage) — React Vite Api
+- [Portfolio](https://github.com/erik-frontend/portfolio_react) — React Vite Scss
+- [React fitness](https://github.com/erik-frontend/react-fitness) — React Vite Scss
+- [React blog](https://github.com/erik-frontend/react-blog) — React Vite
+- [React to do list](https://github.com/erik-frontend/react-todo-list) — React Vite
 ---
  
-### 📊 GitHub Статистика
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayz578&show_icons=true&theme=buefy&… alt="GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayz578&layout=compact&theme… /> |
+### 📊 GitHub Stats
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=erik-flontend&show_icons=true&theme=buefy&… alt="GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-frontend&layout=compact&theme… /> |
 | ------------- | ------------- |
  
 ---
